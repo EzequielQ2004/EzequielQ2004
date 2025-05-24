@@ -32,6 +32,14 @@
 </p>
 
 ---
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
 
 ### 📫 Contacto y Redes Sociales
 
@@ -42,7 +50,7 @@
   <a href="https://www.facebook.com/ezequiel.quiroz.1276487" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="www.linkedin.com/in/ezequiel-quiroz-50b298300" target="_blank">
+  <a href="https://www.linkedin.com/in/ezequiel-quiroz-50b298300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:quirozarielezequiel@gmail.com" target="_blank">
