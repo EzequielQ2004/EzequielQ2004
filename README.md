@@ -105,6 +105,26 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 
 </div>
 
+## 📊 Mis Estadísticas
+
+<div align="center">
+  
+| | | |
+|:---:|:---:|:---:|
+| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=radical&hide_border=true&langs_count=8) |
+| :---: | :---: |
+| **GitHub Stats** | **Lenguajes más usados** |
+
+</div>
+
+<div align="center">
+  
+### 🔥 Racha de contribuciones
+  
+![Racha](https://github-readme-streak-stats.herokuapp.com?user=EzequielQ2004&theme=radical&hide_border=true)
+
+</div>
+
 ---
 
 ## 🌐 Conectemos
