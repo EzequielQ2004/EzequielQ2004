@@ -75,9 +75,6 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 ### 🔥 Racha de contribuciones
 ![Racha](https://github-readme-streak-stats.herokuapp.com?user=EzequielQ2004&theme=radical&hide_border=true)
 
-### 💻 Lenguajes más utilizados
-![Lenguajes](https://stats.dooboo.io/api/github-stats?login=EzequielQ2004)
-
 ### 📈 Estadísticas de GitHub
 ![Estadísticas](https://stats.dooboo.io/api/github-stats-advanced?login=EzequielQ2004)
 
