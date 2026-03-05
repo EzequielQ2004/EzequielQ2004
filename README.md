@@ -83,6 +83,18 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 
 </div>
 
+## 📊 Mis Estadísticas
+
+<div align="center">
+
+### 📈 Estadísticas de GitHub
+![Estadísticas](https://stats.dooboo.io/api/github-stats-advanced?login=EzequielQ2004)
+
+### 💻 Lenguajes más utilizados
+![Lenguajes](https://stats.dooboo.io/api/github-stats?login=EzequielQ2004)
+
+</div>
+
 ---
 
 ## 🌐 Conectemos
