@@ -72,11 +72,14 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 
 <div align="center">
 
-![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+### 📈 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=radical&hide_border=true&langs_count=6)
+### 🔥 Racha de contribuciones
+![Racha](https://github-readme-streak-stats.herokuapp.com?user=EzequielQ2004&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EzequielQ2004&theme=radical&hide_border=true)
+### 💻 Lenguajes más utilizados
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
