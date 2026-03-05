@@ -72,56 +72,11 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 
 <div align="center">
 
-### 📈 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
 ### 🔥 Racha de contribuciones
 ![Racha](https://github-readme-streak-stats.herokuapp.com?user=EzequielQ2004&theme=radical&hide_border=true)
-
-### 💻 Lenguajes más utilizados
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## 📊 Mis Estadísticas
-
-<div align="center">
-
-### 📈 Estadísticas de GitHub
-![Estadísticas](https://stats.dooboo.io/api/github-stats-advanced?login=EzequielQ2004)
 
 ### 💻 Lenguajes más utilizados
 ![Lenguajes](https://stats.dooboo.io/api/github-stats?login=EzequielQ2004)
-
-</div>
-
-## 📊 Mis Estadísticas
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/EzequielQ2004?style=for-the-badge&logo=github&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/EzequielQ2004?style=for-the-badge&logo=github&color=yellow)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/EzequielQ2004?style=for-the-badge&logo=github&color=green)
-
-</div>
-
-## 📊 Mis Estadísticas
-
-<div align="center">
-  
-| | | |
-|:---:|:---:|:---:|
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=EzequielQ2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielQ2004&layout=compact&theme=radical&hide_border=true&langs_count=8) |
-| :---: | :---: |
-| **GitHub Stats** | **Lenguajes más usados** |
-
-</div>
-
-<div align="center">
-  
-### 🔥 Racha de contribuciones
-  
-![Racha](https://github-readme-streak-stats.herokuapp.com?user=EzequielQ2004&theme=radical&hide_border=true)
 
 </div>
 
