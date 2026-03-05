@@ -95,6 +95,16 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 
 </div>
 
+## 📊 Mis Estadísticas
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/EzequielQ2004?style=for-the-badge&logo=github&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/EzequielQ2004?style=for-the-badge&logo=github&color=yellow)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/EzequielQ2004?style=for-the-badge&logo=github&color=green)
+
+</div>
+
 ---
 
 ## 🌐 Conectemos
