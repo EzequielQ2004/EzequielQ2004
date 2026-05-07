@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ezequiel%20Quiroz&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Desarrollador%20en%20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ezequiel%20Quiroz&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Desarrollador%20%20&descAlignY=55)
 
 </div>
 
