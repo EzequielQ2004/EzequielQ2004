@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ezequiel%20Quiroz&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Desarrollador%20en%20formación&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ezequiel%20Quiroz&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Desarrollador%20en%20&descAlignY=55)
 
 </div>
 
 ## 🚀 Sobre Mí
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN San Rafael**, apasionado por el desarrollo de software y siempre en busca de nuevos desafíos que me permitan crecer profesionalmente.
+Soy Programaodr egresado de la **Tecnicatura Universitaria en Programación** en la **UTN San Rafael**, apasionado por el desarrollo de software y siempre en busca de nuevos desafíos que me permitan crecer profesionalmente.
 
 - 🎓 **Formación académica**: Universidad Tecnológica Nacional (UTN) - Facultad Regional San Rafael
 - 🌱 **Actualmente aprendiendo**: Nuevas tecnologías y mejores prácticas de desarrollo
@@ -89,6 +89,7 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-quiroz-50b298300/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quirozarielezequiel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EzequielQ2004)
+[![Portafolio Web](https://img.shields.io/badge/Portafolio_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ezequielquiroz.com.ar/)
 
 </div>
 
